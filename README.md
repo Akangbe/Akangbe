@@ -1,5 +1,8 @@
+  <img align="center" width="" src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Akangbe Henry</h1>
 <h3 align="center">Frontend developer that Creates intuitive and engaging user experiences</h3>
+   <img align="right" width="300px" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akangbe&label=Profile%20views&color=0e75b6&style=flat" alt="akangbe" /> </p>
 
