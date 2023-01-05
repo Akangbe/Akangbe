@@ -1,7 +1,9 @@
   <img align="center" width="" src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Akangbe Henry</h1>
-<h3 align="center">Frontend developer that Creates intuitive and engaging user experiences</h3>
+<p align="center"> As a frontend developer, my passion lies in creating intuitive, user-friendly interfaces that make complex functionality accessible and enjoyable for users. With a strong background in design and a keen eye for detail, I strive to build digital experiences that are both visually appealing and highly functional.
+
+I'm constantly learning and experimenting with new technologies, and I take great pride in my ability to turn ideas into beautifully crafted, responsive websites and applications. Whether I'm working on a small, personal project or a large-scale collaboration, I approach every challenge with enthusiasm and a commitment to excellence. </p>
    <img align="right" width="300px" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akangbe&label=Profile%20views&color=0e75b6&style=flat" alt="akangbe" /> </p>
