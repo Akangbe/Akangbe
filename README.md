@@ -1,4 +1,4 @@
-  <img align="center" width="" src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="">
+  <img align="center" width="" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Akangbe Henry</h1>
 <p align="center"> As a frontend developer, my passion lies in creating intuitive, user-friendly interfaces that make complex functionality accessible and enjoyable for users. With a strong background in design and a keen eye for detail, I strive to build digital experiences that are both visually appealing and highly functional.
